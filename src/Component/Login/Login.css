@@ -1,0 +1,42 @@
+.card {
+    /* margin: 0 auto; */
+    max-width: 35%;
+    position: absolute !important;
+    top: 50%;
+    left: 50%;
+    width: 35%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.card-body {
+    padding: 10% !important;
+}
+
+.user-logo {
+    width: 90px;
+    display: block;
+    margin: auto;
+}
+
+.login-text {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.form-group {
+    padding-bottom: 3vh;
+}
+
+.form-control {
+    /* height: 5vh; */
+    font-size: 18px !important;
+    border-radius: 10px !important;
+}
+
+.main Button {
+    width: 100%;
+    margin-top: 3vh;
+    border-radius: 10px !important;
+}
